@@ -275,7 +275,7 @@ function downloadPDFDoc(docTitle) {
 
       <div class="contact-box">
         <strong>Export Trade Desk Contact Matrix:</strong><br>
-        Phone: +91 7703904541 / +91 9217675400 | Email: singh542shashank@gmail.com<br>
+        Phone: +91 7703904541 / +91 9217675400 | Email: shashank@thesupernutcompany.com<br>
         Compliance: APEDA Reg # 219842 | FSSAI # 104210000182 | US FDA # 19842104928
       </div>
 
